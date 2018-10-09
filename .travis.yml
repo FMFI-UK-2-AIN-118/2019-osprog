@@ -1,0 +1,4 @@
+if: type = pull_request
+language: cpp
+dist: bionic
+script: test/travis.sh
