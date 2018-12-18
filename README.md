@@ -16,6 +16,11 @@ Labs
 * [Lab 8](l08) (buffer overflow)
 * [Lab 9](l09) (threadded TCP chat)
 * [Lab 10](l10) (asynchronous shell)
+* [Lab 11](l11) (ps)
+
+**Your 10 best labs solutions will be graded.
+You can submit l11 to "replace" one you did not submit
+or didn't get enough points for.**
 
 Assignments
 -----------
