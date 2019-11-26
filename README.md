@@ -14,6 +14,7 @@ Labs
 * [Lab 6](l06) (Echo)
 * [Lab 7](l07) (Reader/Writer)
 * [Lab 8](l08) (buffer overflow)
+* [Lab 9](l09) (threadded TCP chat)
 
 Assignments
 -----------
