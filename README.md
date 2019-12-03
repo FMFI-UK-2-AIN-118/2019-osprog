@@ -15,6 +15,7 @@ Labs
 * [Lab 7](l07) (Reader/Writer)
 * [Lab 8](l08) (buffer overflow)
 * [Lab 9](l09) (threadded TCP chat)
+* [Lab 10](l10) (asynchronous shell)
 
 Assignments
 -----------
